@@ -109,7 +109,7 @@ I'm always open to **collaborations, freelance projects, and new opportunities.*
 |----------|------|
 | 📧 Email | [mdpolashislam048@gmail.com](mailto:mdpolashislam048@gmail.com) |
 | 💼 LinkedIn | [md-polash-mia](https://www.linkedin.com/in/md-polash-mia) |
-| 🌐 Portfolio | [m-polash.github.io/main-protfolio](https://m-polash.github.io/main-protfolio/) |
+| 🌐 Portfolio | [m-polash.github.io/main-protfolio](https://m-polash.github.io/polash-portfolio) |
 | 📍 Location | Dhaka, Bangladesh |
 
 </div>

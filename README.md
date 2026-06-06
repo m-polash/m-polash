@@ -12,7 +12,7 @@
 <a href="https://github.com/m-polash">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://m-polash.github.io/main-protfolio/">
+<a href="https://m-polash.github.io/polash-portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="mailto:mdpolashislam048@gmail.com">
@@ -109,7 +109,7 @@ I'm always open to **collaborations, freelance projects, and new opportunities.*
 |----------|------|
 | 📧 Email | [mdpolashislam048@gmail.com](mailto:mdpolashislam048@gmail.com) |
 | 💼 LinkedIn | [md-polash-mia](https://www.linkedin.com/in/md-polash-mia) |
-| 🌐 Portfolio | [m-polash.github.io/main-protfolio](https://m-polash.github.io/polash-portfolio) |
+| 🌐 Portfolio | [m-polash.github.io/polash-portfolio](https://m-polash.github.io/polash-portfolio) |
 | 📍 Location | Dhaka, Bangladesh |
 
 </div>
